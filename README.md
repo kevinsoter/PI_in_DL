@@ -22,28 +22,28 @@ Further information:
 	  comprises all trials (example in the script)
 	- Each trial has to be fully within one file (example for two participants
 	  is provided in the github repository)
-    - A 'connfigure file' with columns listing all participants pseudonyms, soleus
+    - A 'configure file' with columns listing all participants pseudonyms, soleus
       H-reflex latencies and names of trials is needed
 	- The columns should be seperated by a tab file
 	- An example is provided in the github repository
     - Frequency used was 4000Hz (already filled in)
     - This also apllies to the kinematic data as it was automatically upsampled
-      durinng data acquisition (actual sampling frequency was 148Hz)
-    - Per subject and trial of trial three .txt files will be exported to 
+      during data acquisition (actual sampling frequency was 148Hz)
+    - Per subject and trial type three .txt files will be exported to 
       the working directory (mean values, SD values and results)
 
 Familiarity with the manuscript is expected. Throughout different abbreviations
 will be mentioned, sopme of these will be shortly reviewed here:
     - DT    = Drop Time (here synonymous with unstimulated trials)
     - QS    = Quiet Stance
-    - H50   = Stimulation Intensity so H-reflex is at 50% of ascending curve
+    - H50   = Stimulation intensity so H-reflex is at 50% of ascending curve
     - sol   = Soleus muscle
-    - gm    = Gastrocnemiu smedials
+    - gm    = Gastrocnemius medials
     - ta    = Tibialis anterior
     - vm    = Vastus medialis
     - D1    = Conditioning to induce D1 inhibition in sol H-reflex
     - HF    = Conditioning to induce heteronymous facilitation in sol H-reflex
 
-Custom-written scripts by Soter, K.
+Custom-written script by Soter, K.
 Created on Tue Jan  9 09:50:36 2024 in Python (version 3.10.4) 
-with Spyder IDE (version 5.4.3 standalone)* Spyder version: 
+with Spyder IDE (version 5.4.3 standalone) 
