@@ -17,11 +17,11 @@ Short Study description:
 
 Further information:
     - Some information has to filled in by hand, the placing is clearly stated
-    - A 'connfigure file' with columns listing all participants pseudonyms, soleus
+    - A 'configure file' with columns listing all participants pseudonyms, soleus
       H-reflex latencies and name sof trials is needed
     - Frequency used was 4000Hz (already filled in)
     - This also apllies to the kinematic data as it was automatically upsampled
-      durinng data acquisition (actual sampling frequency was 148Hz)
+      during data acquisition (actual sampling frequency was 148Hz)
     - Per subject and trial of trial three .txt files will be exported to 
       the working directory (mean values, SD values and results)
 
@@ -37,7 +37,7 @@ will be mentioned, sopme of these will be shortly reviewed here:
     - D1    = Conditioning to induce D1 inhibition in sol H-reflex
     - HF    = Conditioning to induce heteronymous facilitation in sol H-reflex
 
-Custom-written scripts by Soter, K.
+Custom-written script by Soter, K.
 Created on Tue Jan  9 09:50:36 2024
 """
 
