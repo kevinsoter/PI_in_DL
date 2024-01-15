@@ -47,4 +47,5 @@ will be mentioned, sopme of these will be shortly reviewed here:
     - HF    = Conditioning to induce heteronymous facilitation in sol H-reflex
 
 Custom-written scripts by Soter, K.
-Created on Tue Jan  9 09:50:36 2024
+Created on Tue Jan  9 09:50:36 2024 in Python (version 3.10.4) 
+with Spyder IDE (version 5.4.3 standalone)* Spyder version: 
