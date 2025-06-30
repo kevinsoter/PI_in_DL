@@ -1,19 +1,15 @@
 # PI_in_DL
 The script provided here was written for the data analysis of the research manuscript:
-    "Presynaptic Inhibition does not Contribute to Soleus 
-     Ia Afferent Depression during Drop Landings" 
+    "Presynaptic inhibition does not mediate 
+    reduced soleus H-reflex amplitudes during drop landings" 
      by Soter, K., Hahn, D. & Grosprêtre, S.
 
-Short Study description:
-    The present study was the first to assess whether presynaptic inhibition 
-    suppresses soleus H-reflex responses during drop landings. The results 
-    demonstrate a change in recruitment gain between quiet stance and landing 
-    task, with no discernible influence of presynaptic inhibition throughout, 
-    which contradicts earlier hypotheses. These findings suggest the potential
-    modulation of distinct spinal pathways by the descending drive, notably 
-    the recurrent inhibition pathway. Further research is required to 
-    investigate the specific role of recurrent inhibition in H-reflex 
-    depression during drop landings, using appropriate assessment techniques.
+Abstract:
+During drop landings, shortly after ground contact, spinal excitability is decreased. This decrease, as measured by soleus H-reflex, has been presumed, but not proven, to originate from presynaptic inhibition, facilitated by the descending drive from supraspinal centres. Therefore, the aim of this study was to examine presynaptic inhibition during the flight and landing phases of drop landings.
+Fifteen participants received peripheral nerve stimulations during quiet stance and pre (PRE), and post (POST) ground contact of 40cm drop landings. Stimulations during drop landings were timed to elicit soleus H-reflexes 30-0ms PRE and 30-60ms POST landings, respectively. Presynaptic inhibition was assessed by conditioning the soleus H-reflex with femoral nerve stimulations, eliciting H-reflex heteronymous facilitation (HHF) and common fibular nerve stimulations, eliciting H-reflex D1 inhibition (HD1). Conditioned soleus H-reflex amplitudes were normalised to maximal M-waves (Mmax) and compared with the unconditioned H-reflexes (HTest) during quiet stance, PRE, and POST. EMG of soleus, medial gastrocnemius, tibialis anterior, and vastus medialis as well as hip, knee, and ankle joint angles were measured throughout drop landings and quiet stance. 
+HTest POST was significantly smaller than PRE (-8.5% Mmax,  p = 0.016). Facilitation and inhibition were observed in quiet stance (HHF-HTest: +7.8% Mmax,  p < 0.001; HD1-HTest: -9.5%Mmax,  p = 0.003), but not during PRE or POST (all p = 1.000). 
+ Both paradigms were effective in quiet stance, but not during drop landings, suggesting that the decreased soleus H-reflex POST is not due to ongoing presynaptic inhibition. Instead, reduced motoneuron excitability may indicate other underlying mechanisms.
+
 
 Further information:
     - The file directories have to be inserted by hand at the appropriate placing
